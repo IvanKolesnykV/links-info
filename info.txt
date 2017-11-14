@@ -1,0 +1,6 @@
+http://koala-app.com/ 		- less компилятор
+https://fonts.google.com/ 	- шрифты
+https://css3gen.com/		- сss3 генераторы(Box Shadow,Text Shadow,Border Radius,Gradients,Button Generator)	
+https://ru.stackoverflow.com/	- задать вопросы
+
+https://www.fontsquirrel.com/tools/webfont-generator - генератор шрифтов
