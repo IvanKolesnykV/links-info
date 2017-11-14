@@ -4,3 +4,4 @@ https://css3gen.com/		- ñss3 generator(Box Shadow,Text Shadow,Border Radius,Grad
 https://ru.stackoverflow.com/	- ask questions
 
 https://www.fontsquirrel.com/tools/webfont-generator - font generator
+https://habrahabr.ru/company/webfont/blog/217949/    - font generator
